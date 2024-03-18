@@ -1,0 +1,18 @@
+Kunden (Adressen) (PS / FS)
+Felder: ID, VN, NN, KN, AnredeID, PLZID,  Straße, HNR, Telefon, E-Mail
+PLZ (Orte / Plz) (PS / FS)
+ID, Ort, Plz,
+Rechnungen (PS / FS)
+ID, MwStID, ZID, VID, Nummer, Datum,
+Rechnungspositionen
+ID, ArtikelID, Menge, VK, EK, 
+Artikel
+ID, Artikel, Farbe
+Stammdaten     
+ID, IBAN, Firma, Straße, HNR,
+MwSt
+ID, Mwst, aktiv, 
+Zahlungsbedingungen
+ID, Skonto%, Skontotext, aktiv (bool)
+Versandkosten
+ID, Betrag, Gewicht, Text, Volumen
